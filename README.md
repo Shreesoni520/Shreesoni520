@@ -14,47 +14,35 @@
 
 ## About me
 
-```cpp
-#include <iostream>
-#include <string_view>
-#include <vector>
+```python
+from dataclasses import dataclass
 
-struct Developer {
-    std::string_view name;
-    std::string_view username;
-    std::string_view role;
-    std::string_view based;
-    std::vector<std::string_view> building;
-    std::vector<std::string_view> stack;
-    std::string_view status;
-};
 
-int main() {
-    const Developer shree{
-        .name     = "Krishna Soni",
-        .username = "Shreesoni520",
-        .role     = "Frontend dev · full-stack when needed",
-        .based    = "Portugal",
-        .building = {
-            "ShreeVault — a private finance desk",
-            "Extract    — timed file sharing",
-            "Playlist   — a music room in the browser",
-            "Portfolio  — dark room, ice-blue, motion",
-        },
-        .stack    = {
-            "TypeScript", "Next.js", "React",
-            "Node.js", "Prisma", "Postgres",
-        },
-        .status   = "Shipping live work. Tightening details.",
-    };
+@dataclass(frozen=True)
+class Developer:
+    name: str = "Krishna Soni"
+    username: str = "Shreesoni520"
+    role: str = "Frontend dev · full-stack when needed"
+    based: str = "Portugal"
+    building: tuple[str, ...] = (
+        "ShreeVault — a private finance desk",
+        "Extract    — timed file sharing",
+        "Playlist   — a music room in the browser",
+        "Portfolio  — dark room, ice-blue, motion",
+    )
+    stack: tuple[str, ...] = (
+        "TypeScript", "Next.js", "React",
+        "Node.js", "Prisma", "Postgres",
+    )
+    status: str = "Shipping live work. Tightening details."
 
-    for (std::string_view project : shree.building) {
-        std::cout << "  shipped  " << project << '\n';
-    }
-    std::cout << '\n' << shree.status << '\n';
 
-    return 0;
-}
+shree = Developer()
+
+for project in shree.building:
+    print(f"  shipped  {project}")
+
+print(f"\n{shree.status}")
 ```
 
 I design and build interfaces with presence — sharp structure, smooth motion, and one clear job per screen.

@@ -44,6 +44,36 @@ I design and build interfaces with presence — sharp structure, smooth motion, 
 
 ---
 
+## Languages and tools
+
+<div align="center">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=html5&logoColor=8EC5FF" alt="HTML5" />
+<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=css&logoColor=8EC5FF" alt="CSS" />
+<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=javascript&logoColor=8EC5FF" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=typescript&logoColor=8EC5FF" alt="TypeScript" />
+<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=php&logoColor=8EC5FF" alt="PHP" />
+<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=postgresql&logoColor=8EC5FF" alt="SQL" />
+
+**Tools**
+
+<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=nextdotjs&logoColor=8EC5FF" alt="Next.js" />
+<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=react&logoColor=8EC5FF" alt="React" />
+<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=tailwindcss&logoColor=8EC5FF" alt="Tailwind" />
+<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=nodedotjs&logoColor=8EC5FF" alt="Node.js" />
+<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=express&logoColor=8EC5FF" alt="Express" />
+<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=prisma&logoColor=8EC5FF" alt="Prisma" />
+<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=vercel&logoColor=8EC5FF" alt="Vercel" />
+<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=git&logoColor=8EC5FF" alt="Git" />
+<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=github&logoColor=8EC5FF" alt="GitHub" />
+<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=figma&logoColor=8EC5FF" alt="Figma" />
+
+</div>
+
+---
+
 ## GitHub
 
 <div align="center">

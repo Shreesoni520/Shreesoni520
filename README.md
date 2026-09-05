@@ -19,20 +19,22 @@ shree = {
     "name": "Krishna Soni",
     "type": "Frontend developer",
     "based": "Portugal",
-    "in_progress": "backend, auth, databases",
+    "learning": "backend + databases",
     "stack": [
-        "html", "css", "js", "ts", "php", "sql",
+        "html", "css", "js", "ts",
+        "php", "sql",
     ],
     "tools": [
-        "Next.js", "React", "Tailwind", "Node.js",
-        "Express", "Prisma", "Postgres", "Vercel",
+        "Next.js", "React", "Tailwind",
+        "Node.js", "Express", "Prisma",
+        "Postgres", "Vercel",
     ],
     "proficient": "Frontend",
     "ongoing_works": [
-        {"ShreeVault": "a private finance desk"},
-        {"Extract": "timed file sharing"},
-        {"Playlist": "a music room in a browser"},
-        {"Portfolio": "dark room, ice-blue, motion"},
+        {"ShreeVault": "a finance desk"},
+        {"Extract": "file sharing"},
+        {"Playlist": "a music room"},
+        {"Portfolio": "dark, ice-blue"},
     ],
     "learner_type": "vibe coding",
 }
@@ -46,8 +48,8 @@ I design and build interfaces with presence — sharp structure, smooth motion, 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreesoni520&theme=transparent" width="47%" alt="Languages by repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreesoni520&theme=transparent" width="47%" alt="Contribution stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreesoni520&theme=transparent" alt="Languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreesoni520&theme=transparent" alt="Contribution stats" />
 
 <img src="https://streak-stats.demolab.com?user=Shreesoni520&hide_border=true&background=0B0C10&ring=8EC5FF&fire=8EC5FF&currStreakLabel=8EC5FF&sideLabels=8EC5FF&dates=8A93A5&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=1C2333" alt="Contribution streak" />
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&pause=1200&color=8EC5FF&center=true&vCenter=true&width=720&height=48&lines=Frontend+Dev+%7C+Interface+Craft;ShreeVault+%7C+Extract+%7C+Playlist;Sharp+structure.+Motion+that+earns+it." alt="Krishna Soni — roles" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&pause=1200&color=8EC5FF&center=true&vCenter=true&width=720&height=48&lines=Frontend+Dev+%7C+Interface+Craft;Sharp+structure.+Motion+that+earns+it." alt="Krishna Soni — roles" />
 
 </div>
 

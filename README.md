@@ -17,20 +17,24 @@
 ```python
 shree = {
     "name": "Krishna Soni",
-    "username": "Shreesoni520",
-    "role": "Frontend dev · full-stack when needed",
+    "type": "Frontend developer",
     "based": "Portugal",
-    "building": [
-        "ShreeVault — a private finance desk",
-        "Extract — timed file sharing",
-        "Playlist — a music room in the browser",
-        "Portfolio — dark room, ice-blue, motion",
-    ],
+    "in_progress": "backend, auth, databases",
     "stack": [
-        "TypeScript", "Next.js", "React",
-        "Node.js", "Prisma", "Postgres",
+        "html", "css", "js", "ts", "php", "sql",
     ],
-    "status": "Shipping live work, tightening it.",
+    "tools": [
+        "Next.js", "React", "Tailwind", "Node.js",
+        "Express", "Prisma", "Postgres", "Vercel",
+    ],
+    "proficient": "Frontend",
+    "ongoing_works": [
+        {"ShreeVault": "a private finance desk"},
+        {"Extract": "timed file sharing"},
+        {"Playlist": "a music room in a browser"},
+        {"Portfolio": "dark room, ice-blue, motion"},
+    ],
+    "learner_type": "vibe coding",
 }
 ```
 
@@ -38,88 +42,12 @@ I design and build interfaces with presence — sharp structure, smooth motion, 
 
 ---
 
-## Featured work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ShreeVault
-
-A private finance desk in the browser. Ledger, accounts, leftover goal, recipes and grocery — all tied to one login.
-
-![Next.js](https://img.shields.io/badge/Next.js-0B0C10?style=flat-square&logo=nextdotjs&logoColor=8EC5FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B0C10?style=flat-square&logo=typescript&logoColor=8EC5FF)
-![Prisma](https://img.shields.io/badge/Prisma-0B0C10?style=flat-square&logo=prisma&logoColor=8EC5FF)
-![Postgres](https://img.shields.io/badge/Postgres-0B0C10?style=flat-square&logo=postgresql&logoColor=8EC5FF)
-
-[**Live**](https://shree-s-vault.vercel.app) · [Code](https://github.com/Shreesoni520/Shree-s-Vault)
-
-</td>
-<td width="50%" valign="top">
-
-### Extract
-
-Private person-to-person file sharing. Timed access, one-time codes, and chat that disappears when it should.
-
-![Node.js](https://img.shields.io/badge/Node.js-0B0C10?style=flat-square&logo=nodedotjs&logoColor=8EC5FF)
-![Express](https://img.shields.io/badge/Express-0B0C10?style=flat-square&logo=express&logoColor=8EC5FF)
-![Vercel](https://img.shields.io/badge/Vercel-0B0C10?style=flat-square&logo=vercel&logoColor=8EC5FF)
-
-[**Live**](https://shree-s-extractions.vercel.app) · [Code](https://github.com/Shreesoni520/Extract)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Playlist
-
-A personal music room in the browser. Sign in, set the mood, drop a YouTube link, and play.
-
-![Next.js](https://img.shields.io/badge/Next.js-0B0C10?style=flat-square&logo=nextdotjs&logoColor=8EC5FF)
-![React](https://img.shields.io/badge/React-0B0C10?style=flat-square&logo=react&logoColor=8EC5FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B0C10?style=flat-square&logo=typescript&logoColor=8EC5FF)
-
-[**Live**](https://shree-s-my-playlist.vercel.app) · [Code](https://github.com/Shreesoni520/MyPlaylist)
-
-</td>
-<td width="50%" valign="top">
-
-### Portfolio
-
-My personal site. Dark room, ice-blue accent, ASCII spotlight, and motion that earns its place. No framework.
-
-![HTML5](https://img.shields.io/badge/HTML5-0B0C10?style=flat-square&logo=html5&logoColor=8EC5FF)
-![CSS](https://img.shields.io/badge/CSS-0B0C10?style=flat-square&logo=css3&logoColor=8EC5FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B0C10?style=flat-square&logo=javascript&logoColor=8EC5FF)
-
-[**Live**](https://shreesoni.vercel.app) · [Code](https://github.com/Shreesoni520/MyPortfolio)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <sub>Also: <a href="https://github.com/Shreesoni520/PAP">Reporta Évora</a> — citizens report urban and road issues, with photos, a map, and an admin desk.</sub>
-</div>
-
----
-
-## Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,prisma,postgres,vercel,git,github,vscode,figma" alt="Tech stack" />
-</div>
-
----
-
 ## GitHub
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreesoni520&theme=transparent" height="200" alt="Languages by repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreesoni520&theme=transparent" height="200" alt="Contribution stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreesoni520&theme=transparent" width="47%" alt="Languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreesoni520&theme=transparent" width="47%" alt="Contribution stats" />
 
 <img src="https://streak-stats.demolab.com?user=Shreesoni520&hide_border=true&background=0B0C10&ring=8EC5FF&fire=8EC5FF&currStreakLabel=8EC5FF&sideLabels=8EC5FF&dates=8A93A5&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=1C2333" alt="Contribution streak" />
 
@@ -129,9 +57,10 @@ My personal site. Dark room, ice-blue accent, ASCII spotlight, and motion that e
 
 ## Right now
 
-- **ShreeVault** — private desk for money, leftover, recipes, grocery
-- **Extract** — share a file, set a timer, chat that does not stay
-- **Craft** — type, motion, and layouts that feel finished on first load
+- **[ShreeVault](https://shree-s-vault.vercel.app)** — private desk for money, leftover, recipes, grocery
+- **[Extract](https://shree-s-extractions.vercel.app)** — share a file, set a timer, chat that does not stay
+- **[Playlist](https://shree-s-my-playlist.vercel.app)** — sign in, drop a YouTube link, and play
+- **[Portfolio](https://shreesoni.vercel.app)** — dark room, ice-blue, motion that earns its place
 
 ---
 

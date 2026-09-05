@@ -38,39 +38,68 @@ I design and build interfaces with presence — sharp structure, smooth motion, 
 ## Featured work
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://shree-s-vault.vercel.app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreesoni520&repo=Shree-s-Vault&title_color=8EC5FF&icon_color=8EC5FF&text_color=C9D1D9&bg_color=0B0C10&hide_border=true" alt="Shree-s-Vault" />
-      </a>
-      <br/>
-      <sub>Private finance desk · <a href="https://shree-s-vault.vercel.app">live</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://shree-s-extractions.vercel.app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreesoni520&repo=Extract&title_color=8EC5FF&icon_color=8EC5FF&text_color=C9D1D9&bg_color=0B0C10&hide_border=true" alt="Extract" />
-      </a>
-      <br/>
-      <sub>Timed sharing · <a href="https://shree-s-extractions.vercel.app">live</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://shree-s-my-playlist.vercel.app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreesoni520&repo=MyPlaylist&title_color=8EC5FF&icon_color=8EC5FF&text_color=C9D1D9&bg_color=0B0C10&hide_border=true" alt="MyPlaylist" />
-      </a>
-      <br/>
-      <sub>Music room · <a href="https://shree-s-my-playlist.vercel.app">live</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://shreesoni.vercel.app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreesoni520&repo=MyPortfolio&title_color=8EC5FF&icon_color=8EC5FF&text_color=C9D1D9&bg_color=0B0C10&hide_border=true" alt="MyPortfolio" />
-      </a>
-      <br/>
-      <sub>Personal site · <a href="https://shreesoni.vercel.app">live</a></sub>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ShreeVault
+
+A private finance desk in the browser. Ledger, accounts, leftover goal, recipes and grocery — all tied to one login.
+
+![Next.js](https://img.shields.io/badge/Next.js-0B0C10?style=flat-square&logo=nextdotjs&logoColor=8EC5FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0C10?style=flat-square&logo=typescript&logoColor=8EC5FF)
+![Prisma](https://img.shields.io/badge/Prisma-0B0C10?style=flat-square&logo=prisma&logoColor=8EC5FF)
+![Postgres](https://img.shields.io/badge/Postgres-0B0C10?style=flat-square&logo=postgresql&logoColor=8EC5FF)
+
+[**Live**](https://shree-s-vault.vercel.app) · [Code](https://github.com/Shreesoni520/Shree-s-Vault)
+
+</td>
+<td width="50%" valign="top">
+
+### Extract
+
+Private person-to-person file sharing. Timed access, one-time codes, and chat that disappears when it should.
+
+![Node.js](https://img.shields.io/badge/Node.js-0B0C10?style=flat-square&logo=nodedotjs&logoColor=8EC5FF)
+![Express](https://img.shields.io/badge/Express-0B0C10?style=flat-square&logo=express&logoColor=8EC5FF)
+![Vercel](https://img.shields.io/badge/Vercel-0B0C10?style=flat-square&logo=vercel&logoColor=8EC5FF)
+
+[**Live**](https://shree-s-extractions.vercel.app) · [Code](https://github.com/Shreesoni520/Extract)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Playlist
+
+A personal music room in the browser. Sign in, set the mood, drop a YouTube link, and play.
+
+![Next.js](https://img.shields.io/badge/Next.js-0B0C10?style=flat-square&logo=nextdotjs&logoColor=8EC5FF)
+![React](https://img.shields.io/badge/React-0B0C10?style=flat-square&logo=react&logoColor=8EC5FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0C10?style=flat-square&logo=typescript&logoColor=8EC5FF)
+
+[**Live**](https://shree-s-my-playlist.vercel.app) · [Code](https://github.com/Shreesoni520/MyPlaylist)
+
+</td>
+<td width="50%" valign="top">
+
+### Portfolio
+
+My personal site. Dark room, ice-blue accent, ASCII spotlight, and motion that earns its place. No framework.
+
+![HTML5](https://img.shields.io/badge/HTML5-0B0C10?style=flat-square&logo=html5&logoColor=8EC5FF)
+![CSS](https://img.shields.io/badge/CSS-0B0C10?style=flat-square&logo=css3&logoColor=8EC5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0C10?style=flat-square&logo=javascript&logoColor=8EC5FF)
+
+[**Live**](https://shreesoni.vercel.app) · [Code](https://github.com/Shreesoni520/MyPortfolio)
+
+</td>
+</tr>
 </table>
+
+<div align="center">
+  <sub>Also: <a href="https://github.com/Shreesoni520/PAP">Reporta Évora</a> — citizens report urban and road issues, with photos, a map, and an admin desk.</sub>
+</div>
 
 ---
 
@@ -85,10 +114,17 @@ I design and build interfaces with presence — sharp structure, smooth motion, 
 ## GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shreesoni520&show_icons=true&hide_border=true&bg_color=0B0C10&title_color=8EC5FF&icon_color=8EC5FF&text_color=C9D1D9&ring_color=8EC5FF" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreesoni520&layout=compact&hide_border=true&bg_color=0B0C10&title_color=8EC5FF&text_color=C9D1D9" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Shreesoni520&hide_border=true&background=0B0C10&ring=8EC5FF&fire=8EC5FF&currStreakLabel=8EC5FF&sideLabels=8EC5FF&dates=8A93A5&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=1C2333" alt="Contribution streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreesoni520&theme=transparent" alt="Profile summary" width="820" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreesoni520&theme=transparent" height="200" alt="Languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shreesoni520&theme=transparent" height="200" alt="Most used languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreesoni520&theme=transparent" height="200" alt="Contribution stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shreesoni520&theme=transparent&utcOffset=1" height="200" alt="Productive time" />
+
+<img src="https://streak-stats.demolab.com?user=Shreesoni520&hide_border=true&background=0B0C10&ring=8EC5FF&fire=8EC5FF&currStreakLabel=8EC5FF&sideLabels=8EC5FF&dates=8A93A5&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=1C2333" alt="Contribution streak" />
+
 </div>
 
 ---

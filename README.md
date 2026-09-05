@@ -50,25 +50,25 @@ I design and build interfaces with presence — sharp structure, smooth motion, 
 
 **Languages**
 
-<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=html5&logoColor=8EC5FF" alt="HTML5" />
-<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=css&logoColor=8EC5FF" alt="CSS" />
-<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=javascript&logoColor=8EC5FF" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=typescript&logoColor=8EC5FF" alt="TypeScript" />
-<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=php&logoColor=8EC5FF" alt="PHP" />
-<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=postgresql&logoColor=8EC5FF" alt="SQL" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=html5&logoColor=8EC5FF" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=css&logoColor=8EC5FF" alt="CSS" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=javascript&logoColor=8EC5FF" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org" title="TypeScript"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=typescript&logoColor=8EC5FF" alt="TypeScript" /></a>
+<a href="https://www.php.net" title="PHP"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=php&logoColor=8EC5FF" alt="PHP" /></a>
+<a href="https://www.postgresql.org" title="SQL / Postgres"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=postgresql&logoColor=8EC5FF" alt="SQL" /></a>
 
 **Tools**
 
-<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=nextdotjs&logoColor=8EC5FF" alt="Next.js" />
-<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=react&logoColor=8EC5FF" alt="React" />
-<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=tailwindcss&logoColor=8EC5FF" alt="Tailwind" />
-<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=nodedotjs&logoColor=8EC5FF" alt="Node.js" />
-<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=express&logoColor=8EC5FF" alt="Express" />
-<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=prisma&logoColor=8EC5FF" alt="Prisma" />
-<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=vercel&logoColor=8EC5FF" alt="Vercel" />
-<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=git&logoColor=8EC5FF" alt="Git" />
-<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=github&logoColor=8EC5FF" alt="GitHub" />
-<img src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=figma&logoColor=8EC5FF" alt="Figma" />
+<a href="https://nextjs.org" title="Next.js"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=nextdotjs&logoColor=8EC5FF" alt="Next.js" /></a>
+<a href="https://react.dev" title="React"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=react&logoColor=8EC5FF" alt="React" /></a>
+<a href="https://tailwindcss.com" title="Tailwind CSS"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=tailwindcss&logoColor=8EC5FF" alt="Tailwind" /></a>
+<a href="https://nodejs.org" title="Node.js"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=nodedotjs&logoColor=8EC5FF" alt="Node.js" /></a>
+<a href="https://expressjs.com" title="Express"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=express&logoColor=8EC5FF" alt="Express" /></a>
+<a href="https://www.prisma.io" title="Prisma"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=prisma&logoColor=8EC5FF" alt="Prisma" /></a>
+<a href="https://vercel.com" title="Vercel"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=vercel&logoColor=8EC5FF" alt="Vercel" /></a>
+<a href="https://git-scm.com" title="Git"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=git&logoColor=8EC5FF" alt="Git" /></a>
+<a href="https://github.com/Shreesoni520" title="GitHub"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=github&logoColor=8EC5FF" alt="GitHub" /></a>
+<a href="https://www.figma.com" title="Figma"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=figma&logoColor=8EC5FF" alt="Figma" /></a>
 
 </div>
 
@@ -92,6 +92,8 @@ I design and build interfaces with presence — sharp structure, smooth motion, 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shreesoni.vercel.app-8EC5FF?style=for-the-badge&logo=vercel&logoColor=white)](https://shreesoni.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Soni-111111?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJ6bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjMyIDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0Ljkzek02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzd6Ii8%2BPC9zdmc%2B&logoColor=8EC5FF)](https://www.linkedin.com/in/krishna-soni-7751782b1/)
+[![Discord](https://img.shields.io/badge/Discord-krishna-111111?style=for-the-badge&logo=discord&logoColor=8EC5FF)](https://discord.com/users/1110214958584713346)
 [![Email](https://img.shields.io/badge/Email-shreesoni520-111111?style=for-the-badge&logo=gmail&logoColor=8EC5FF)](mailto:shreesoni520@gmail.com)
 [![X](https://img.shields.io/badge/X-Shreessoni520-111111?style=for-the-badge&logo=x&logoColor=8EC5FF)](https://x.com/Shreessoni520)
 [![Instagram](https://img.shields.io/badge/Instagram-krishna__soni.52-111111?style=for-the-badge&logo=instagram&logoColor=8EC5FF)](https://www.instagram.com/krishna_soni.52/)

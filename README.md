@@ -118,13 +118,8 @@ My personal site. Dark room, ice-blue accent, ASCII spotlight, and motion that e
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreesoni520&theme=transparent" alt="Profile summary" width="820" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreesoni520&theme=transparent" height="200" alt="Languages by repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shreesoni520&theme=transparent" height="200" alt="Most used languages" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreesoni520&theme=transparent" height="200" alt="Contribution stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shreesoni520&theme=transparent&utcOffset=1" height="200" alt="Productive time" />
 
 <img src="https://streak-stats.demolab.com?user=Shreesoni520&hide_border=true&background=0B0C10&ring=8EC5FF&fire=8EC5FF&currStreakLabel=8EC5FF&sideLabels=8EC5FF&dates=8A93A5&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=1C2333" alt="Contribution streak" />
 

@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="./hero.png" alt="Developer at a dark ice-blue desk" width="720" />
+  <img src="./hero.png" alt="Hello, I'm Shree" width="720" />
 </div>
 
 ---

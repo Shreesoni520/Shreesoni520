@@ -14,21 +14,44 @@
 
 ## About me
 
-```ts
-const shree = {
-  name: "Krishna Soni",
-  username: "Shreesoni520",
-  role: "Frontend developer · full-stack when the product needs it",
-  based: "Portugal",
-  building: [
-    "ShreeVault — private finance desk (ledger, accounts, kitchen)",
-    "Extract — timed file sharing + ephemeral chat",
-    "Playlist — a personal music room in the browser",
-    "Portfolio — dark room, ice-blue, motion that earns its place",
-  ],
-  stack: ["TypeScript", "Next.js", "React", "Node.js", "Prisma", "Postgres"],
-  status: "Shipping live work. Tightening every detail.",
+```cpp
+#include <iostream>
+#include <string_view>
+#include <vector>
+
+struct Developer {
+    std::string_view name;
+    std::string_view username;
+    std::string_view role;
+    std::string_view based;
+    std::vector<std::string_view> building;
+    std::vector<std::string_view> stack;
+    std::string_view status;
 };
+
+int main() {
+    const Developer shree{
+        .name     = "Krishna Soni",
+        .username = "Shreesoni520",
+        .role     = "Frontend developer · full-stack when the product needs it",
+        .based    = "Portugal",
+        .building = {
+            "ShreeVault — private finance desk (ledger, accounts, kitchen)",
+            "Extract   — timed file sharing + ephemeral chat",
+            "Playlist  — a personal music room in the browser",
+            "Portfolio — dark room, ice-blue, motion that earns its place",
+        },
+        .stack    = { "TypeScript", "Next.js", "React", "Node.js", "Prisma", "Postgres" },
+        .status   = "Shipping live work. Tightening every detail.",
+    };
+
+    for (std::string_view project : shree.building) {
+        std::cout << "  shipped  " << project << '\n';
+    }
+    std::cout << '\n' << shree.status << '\n';
+
+    return 0;
+}
 ```
 
 I design and build interfaces with presence — sharp structure, smooth motion, and one clear job per screen.

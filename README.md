@@ -33,16 +33,19 @@ int main() {
     const Developer shree{
         .name     = "Krishna Soni",
         .username = "Shreesoni520",
-        .role     = "Frontend developer · full-stack when the product needs it",
+        .role     = "Frontend dev · full-stack when needed",
         .based    = "Portugal",
         .building = {
-            "ShreeVault — private finance desk (ledger, accounts, kitchen)",
-            "Extract   — timed file sharing + ephemeral chat",
-            "Playlist  — a personal music room in the browser",
-            "Portfolio — dark room, ice-blue, motion that earns its place",
+            "ShreeVault — a private finance desk",
+            "Extract    — timed file sharing",
+            "Playlist   — a music room in the browser",
+            "Portfolio  — dark room, ice-blue, motion",
         },
-        .stack    = { "TypeScript", "Next.js", "React", "Node.js", "Prisma", "Postgres" },
-        .status   = "Shipping live work. Tightening every detail.",
+        .stack    = {
+            "TypeScript", "Next.js", "React",
+            "Node.js", "Prisma", "Postgres",
+        },
+        .status   = "Shipping live work. Tightening details.",
     };
 
     for (std::string_view project : shree.building) {

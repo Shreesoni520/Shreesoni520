@@ -57,15 +57,6 @@ I design and build interfaces with presence — sharp structure, smooth motion, 
 
 ---
 
-## Right now
-
-- **[ShreeVault](https://shree-s-vault.vercel.app)** — private desk for money, leftover, recipes, grocery
-- **[Extract](https://shree-s-extractions.vercel.app)** — share a file, set a timer, chat that does not stay
-- **[Playlist](https://shree-s-my-playlist.vercel.app)** — sign in, drop a YouTube link, and play
-- **[Portfolio](https://shreesoni.vercel.app)** — dark room, ice-blue, motion that earns its place
-
----
-
 ## Connect
 
 <div align="center">

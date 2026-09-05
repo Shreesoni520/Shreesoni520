@@ -15,34 +15,23 @@
 ## About me
 
 ```python
-from dataclasses import dataclass
-
-
-@dataclass(frozen=True)
-class Developer:
-    name: str = "Krishna Soni"
-    username: str = "Shreesoni520"
-    role: str = "Frontend dev · full-stack when needed"
-    based: str = "Portugal"
-    building: tuple[str, ...] = (
+shree = {
+    "name": "Krishna Soni",
+    "username": "Shreesoni520",
+    "role": "Frontend dev · full-stack when needed",
+    "based": "Portugal",
+    "building": [
         "ShreeVault — a private finance desk",
-        "Extract    — timed file sharing",
-        "Playlist   — a music room in the browser",
-        "Portfolio  — dark room, ice-blue, motion",
-    )
-    stack: tuple[str, ...] = (
+        "Extract — timed file sharing",
+        "Playlist — a music room in the browser",
+        "Portfolio — dark room, ice-blue, motion",
+    ],
+    "stack": [
         "TypeScript", "Next.js", "React",
         "Node.js", "Prisma", "Postgres",
-    )
-    status: str = "Shipping live work. Tightening details."
-
-
-shree = Developer()
-
-for project in shree.building:
-    print(f"  shipped  {project}")
-
-print(f"\n{shree.status}")
+    ],
+    "status": "Shipping live work, tightening it.",
+}
 ```
 
 I design and build interfaces with presence — sharp structure, smooth motion, and one clear job per screen.

@@ -50,25 +50,25 @@ I design and build interfaces with presence — sharp structure, smooth motion, 
 
 **Languages**
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=html5&logoColor=8EC5FF" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=css&logoColor=8EC5FF" alt="CSS" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=javascript&logoColor=8EC5FF" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org" title="TypeScript"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=typescript&logoColor=8EC5FF" alt="TypeScript" /></a>
-<a href="https://www.php.net" title="PHP"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=php&logoColor=8EC5FF" alt="PHP" /></a>
-<a href="https://www.postgresql.org" title="SQL / Postgres"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=postgresql&logoColor=8EC5FF" alt="SQL" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img width="66" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=html5&logoColor=8EC5FF" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img width="66" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=css&logoColor=8EC5FF" alt="CSS" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img width="66" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=javascript&logoColor=8EC5FF" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org" title="TypeScript"><img width="66" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=typescript&logoColor=8EC5FF" alt="TypeScript" /></a>
+<a href="https://www.php.net" title="PHP"><img width="66" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=php&logoColor=8EC5FF" alt="PHP" /></a>
+<a href="https://www.postgresql.org" title="SQL / Postgres"><img width="66" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=postgresql&logoColor=8EC5FF" alt="SQL" /></a>
 
 **Tools**
 
-<a href="https://nextjs.org" title="Next.js"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=nextdotjs&logoColor=8EC5FF" alt="Next.js" /></a>
-<a href="https://react.dev" title="React"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=react&logoColor=8EC5FF" alt="React" /></a>
-<a href="https://tailwindcss.com" title="Tailwind CSS"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=tailwindcss&logoColor=8EC5FF" alt="Tailwind" /></a>
-<a href="https://nodejs.org" title="Node.js"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=nodedotjs&logoColor=8EC5FF" alt="Node.js" /></a>
-<a href="https://expressjs.com" title="Express"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=express&logoColor=8EC5FF" alt="Express" /></a>
-<a href="https://www.prisma.io" title="Prisma"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=prisma&logoColor=8EC5FF" alt="Prisma" /></a>
-<a href="https://vercel.com" title="Vercel"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=vercel&logoColor=8EC5FF" alt="Vercel" /></a>
-<a href="https://git-scm.com" title="Git"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=git&logoColor=8EC5FF" alt="Git" /></a>
-<a href="https://github.com/Shreesoni520" title="GitHub"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=github&logoColor=8EC5FF" alt="GitHub" /></a>
-<a href="https://www.figma.com" title="Figma"><img height="54" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=figma&logoColor=8EC5FF" alt="Figma" /></a>
+<a href="https://nextjs.org" title="Next.js"><img width="66" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=nextdotjs&logoColor=8EC5FF" alt="Next.js" /></a>
+<a href="https://react.dev" title="React"><img width="66" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=react&logoColor=8EC5FF" alt="React" /></a>
+<a href="https://tailwindcss.com" title="Tailwind CSS"><img width="66" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=tailwindcss&logoColor=8EC5FF" alt="Tailwind" /></a>
+<a href="https://nodejs.org" title="Node.js"><img width="66" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=nodedotjs&logoColor=8EC5FF" alt="Node.js" /></a>
+<a href="https://expressjs.com" title="Express"><img width="66" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=express&logoColor=8EC5FF" alt="Express" /></a>
+<a href="https://www.prisma.io" title="Prisma"><img width="66" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=prisma&logoColor=8EC5FF" alt="Prisma" /></a>
+<a href="https://vercel.com" title="Vercel"><img width="66" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=vercel&logoColor=8EC5FF" alt="Vercel" /></a>
+<a href="https://git-scm.com" title="Git"><img width="66" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=git&logoColor=8EC5FF" alt="Git" /></a>
+<a href="https://github.com/Shreesoni520" title="GitHub"><img width="66" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=github&logoColor=8EC5FF" alt="GitHub" /></a>
+<a href="https://www.figma.com" title="Figma"><img width="66" src="https://img.shields.io/badge/-0B0C10?style=for-the-badge&logo=figma&logoColor=8EC5FF" alt="Figma" /></a>
 
 </div>
 
